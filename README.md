@@ -9,4 +9,7 @@ A culture of "FRIENDS" is being introduced that is , if you want to lend or take
  And , the user-interface lets you understand every feature easily.
  Hope you like it.
  DO report any kind of bugs ,if found.
+ 
+ Files and structure should be maintained as described.
+ 
  Thank You.
